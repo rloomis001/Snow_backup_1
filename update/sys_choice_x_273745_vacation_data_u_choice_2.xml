@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_2" table="x_273745_vacation_data" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Less than 1 day</label>
+            <language>en</language>
+            <name>x_273745_vacation_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 14:59:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d51e6d6d37202300fee8d02783990eea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 14:59:23</sys_updated_on>
+            <value>less than 1 day</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 day</label>
+            <language>en</language>
+            <name>x_273745_vacation_data</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 14:59:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>591e6d6d37202300fee8d02783990eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 14:59:23</sys_updated_on>
+            <value>1 day</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>More than 1 day</label>
+            <language>en</language>
+            <name>x_273745_vacation_data</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 14:59:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d51e6d6d37202300fee8d02783990eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 14:59:23</sys_updated_on>
+            <value>more than 1 day</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_2</element>
+            <name>x_273745_vacation_data</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 14:59:23</sys_created_on>
+            <sys_id>151e6d6d37202300fee8d02783990eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_2</sys_name>
+            <sys_package display_value="Vacation days" source="x_273745_vacation">4d9772d337d02300fee8d02783990e9e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vacation days">4d9772d337d02300fee8d02783990e9e</sys_scope>
+            <sys_update_name>sys_choice_x_273745_vacation_data_u_choice_2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 14:59:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

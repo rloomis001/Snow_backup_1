@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_glide_end_date" label="End date" language="en" table="x_273745_vacation_data">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_end_date</element>
+            <help/>
+            <hint/>
+            <label>End date</label>
+            <language>en</language>
+            <name>x_273745_vacation_data</name>
+            <plural>End dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 18:34:23</sys_created_on>
+            <sys_id>b24f12e537a02300fee8d02783990e51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>End date</sys_name>
+            <sys_package display_value="Vacation days" source="x_273745_vacation">4d9772d337d02300fee8d02783990e9e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vacation days">4d9772d337d02300fee8d02783990e9e</sys_scope>
+            <sys_update_name>sys_documentation_x_273745_vacation_data_u_glide_end_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 18:34:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

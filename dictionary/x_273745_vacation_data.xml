@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Vacation data" max_length="40" name="x_273745_vacation_data" type="collection">
+        <element choice="2" label="Approved" max_length="20" name="approved" read_only="true" type="boolean">
+            <choice/>
+        </element>
+        <element label="End date" mandatory="true" max_length="40" name="u_glide_end_date" type="glide_date_time"/>
+        <element label="Start date" mandatory="true" max_length="40" name="u_glide_start_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="Enter your name" label="Name" mandatory="true" max_length="50" name="u_name" type="string"/>
+        <element label="Name" mandatory="true" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="50" name="u_short_description" type="string"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

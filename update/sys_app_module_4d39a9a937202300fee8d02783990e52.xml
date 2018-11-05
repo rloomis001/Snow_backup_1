@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Vacations">68e38f5b37d02300fee8d02783990efb</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="x_273745_vacation_data">sys_updated_by!=dave.shuman@ellucian.com^EQ<item endquery="false" field="sys_updated_by" goto="false" newquery="false" operator="!=" or="false" value="dave.shuman@ellucian.com"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>A list of pending Vacation Requests</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Open</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_273745_vacation_data</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-14 14:44:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d39a9a937202300fee8d02783990e52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vacation days" source="x_273745_vacation">4d9772d337d02300fee8d02783990e9e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vacation days">4d9772d337d02300fee8d02783990e9e</sys_scope>
+        <sys_update_name>sys_app_module_4d39a9a937202300fee8d02783990e52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-14 14:44:15</sys_updated_on>
+        <timeline_page/>
+        <title>Open</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
